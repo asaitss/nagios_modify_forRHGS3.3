@@ -4,7 +4,7 @@
 #2018/01/29  for GlusterStorage 3.3.0
 
 #nagios_reconfig.sh [gluster volume name]
-#nagiosİ’èAbrick‚ª³í‚È‚Ì‚ÉCritical‚É‚È‚é‚Ì‚ğC³‚·‚é
+#nagiosİ’èAbrick‚ª³í‚È‚Ì‚ÉCritical‚É‚È‚éŒ»Û‚ğC³‚·‚é
 #Correct that brick is normal but it becomes critical status by nagios.
 #https://access.redhat.com/solutions/3215601
 #Please grant execute permission. "chmod +x nagios_reconfig.sh"
